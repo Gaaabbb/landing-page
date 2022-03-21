@@ -1,5 +1,7 @@
 # landing-page
 
+This is the finished webpage I made from "Project: Landing Page" on TheOdinProject. I copied the webpage layout provided by the course and I added my own content in it.
+
 Images Sources:
 
 https://iamafoodblog.com/a-breakdown-of-the-full-english-breakfast/
